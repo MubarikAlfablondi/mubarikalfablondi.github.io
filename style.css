@@ -7,3 +7,9 @@ li {
     Float: left;
     margin-left: 50px;
 }
+
+img {
+    float: left;
+    width: 400px;
+    height: 295px;
+}
