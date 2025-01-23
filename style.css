@@ -13,3 +13,7 @@ img {
     width: 400px;
     height: 295px;
 }
+
+body {
+    background-color: #e69de6;
+}
