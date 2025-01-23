@@ -2,11 +2,30 @@ h1 {
     text-align: center;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
 
 li {
     display: inline;
     Float: left;
-    margin-left: 100px;
+    padding: 5px;
+}
+
+li a {
+    display: block;
+    background-color: #dddddd;;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #f7f7f7;
 }
 
 img {
