@@ -2,51 +2,6 @@ body {
     margin: 0px;
 }
 
-#TitlePage {
-    padding-top: 50px;
-    text-align: center;
-    margin-bottom: 50px;
-}
-
-.menu {
-    text-align: center;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333333;
-}
-
-li {
-    display: inline;
-    Float: left;
-    padding: 5px;
-}
-
-li a {
-    display: block;
-    background-color: #dddddd;;
-    padding: 14px 40px;
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color: #f7f7f7;
-}
-
-img {
-    float: left;
-    width: 400px;
-    height: 295px;
-}
-
-body {
-    background-color: #00000000;
-}
-
 footer {
     position: fixed;
     bottom: 0;
