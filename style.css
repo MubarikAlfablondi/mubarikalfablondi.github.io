@@ -8,6 +8,9 @@ h3 {
     text-align: center;
 }
 
-#videointroduction {
-    text-align: center;
+#videocontainer {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    
 }
